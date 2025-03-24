@@ -26,8 +26,8 @@ public class Module1 {
 		String City = "West Reading";
 		String zipcode = "47532";
 		
-		System.out.println("The user's First Name is " + firstName);
-		System.out.println("The user's Last Name is " + lastName);
+		System.out.println("The user's First Name is: " + firstName);
+		System.out.println("The user's Last Name is: " + lastName);
 		System.out.println("The user's Street address is " + Address);
 		System.out.println("The user's City is " + City);
 		System.out.println("The user's Zip code is " + zipcode);
