@@ -21,8 +21,11 @@ public class Module1 {
 	public static void main(String[] args) {
 		
 		String firstName = "Eric";
+
 		String lastName = "Brown";
+
 		String Address = "214 Playground Drive";
+
 		String City = "West Reading";
 		String zipcode = "47532";
 		
