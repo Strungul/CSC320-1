@@ -22,7 +22,7 @@ public class Module1 {
 		
 		String firstName = "Eric";
 		String lastName = "Brown";
-		String Address = "214 Playground Dr.";
+		String Address = "214 Playground Drive";
 		String City = "West Reading";
 		String zipcode = "47532";
 		
