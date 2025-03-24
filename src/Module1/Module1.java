@@ -28,9 +28,9 @@ public class Module1 {
 		
 		System.out.println("The user's First Name is: " + firstName);
 		System.out.println("The user's Last Name is: " + lastName);
-		System.out.println("The user's Street address is " + Address);
-		System.out.println("The user's City is " + City);
-		System.out.println("The user's Zip code is " + zipcode);
+		System.out.println("The user's Street address is: " + Address);
+		System.out.println("The user's City is: " + City);
+		System.out.println("The user's Zip code is: " + zipcode);
 		
 	}
 
