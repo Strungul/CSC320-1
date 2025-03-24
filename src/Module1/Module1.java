@@ -28,6 +28,7 @@ public class Module1 {
 
 		String City = "West Reading";
 		String zipcode = "47532";
+                Integer age = 27;
 		
 		System.out.println("The user's First Name is: " + firstName);
 		System.out.println("The user's Last Name is: " + lastName);
