@@ -15,8 +15,9 @@ public class Module_4_Critical_Thinking {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scnr = new Scanner(System.in);
-		System.out.println("Welcome to the program.  We will intake 5 values and display the total, Average, Maximum, Minimum and 20% of that value back to you.  These numbers will be calculated as floats, so there will be some inacturacies for anything over 7 significant digits."
-				+ "There may also be some rounding errors, so don't use this for big financial calculations.");
+		System.out.println("Welcome to the program.  We will intake 5 values and display the total, Average, Maximum, Minimum and 20% of that value back to you.  ");
+		System.out.println("These numbers will be calculated as floats, so there will be some inacturacies for anything over 7 significant digits.");
+		System.out.println("There may also be some rounding errors, so don't use this for big financial calculations.");
 		
 		//set arrays to hold values for instructions and values for user input
 		String iteration[] = {"first", "second", "third", "fourth", "fifth"};
